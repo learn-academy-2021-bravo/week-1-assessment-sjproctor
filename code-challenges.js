@@ -14,7 +14,7 @@ var temp2 = 350
 var temp3 = 212
 
 
-
+changes!
 
 
 // --------------------2) Create a function that takes in an array of numbers and returns an array with each number multiplied by 5.
