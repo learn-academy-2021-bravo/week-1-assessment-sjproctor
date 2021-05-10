@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: A code block that only runs when invoked/called. Functions are reusable and can accept multiple arguments.
 
 
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Return is the function output, keyword in JS that defines the output of the function. If there is not a "return" the function will return undefined. Console.log() is the thing that shows us the output of code in the dev tools. The keyword "return" end the operation of your function.
 
 
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Argument is the actual value passed into a function. Parameter is the placeholder value in the function.
 
 
 
@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: A procedure that is part of the JavaScript language that produces a particular outcome, designed for a certain data type
 
 
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Driver - typing / navigator - guiding, planning, checking for errors
 
 
 
@@ -55,12 +55,12 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: function that takes in a function
 
-2. Jest:
+2. Jest: testing framework
 
-3. Classes:
+3. Classes: blueprint for an object, can have methods and properties (data and behavior)
 
-4. Constructor:
+4. Constructor: methods to instantiate a class, can play a role in class inheritance
 
-5. React:
+5. React: frontend framework, keep code module, holds state, reusable components
